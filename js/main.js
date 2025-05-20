@@ -8,5 +8,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     console.log('Document ready and JavaScript loaded!');
 
+    // tien da sua
+
     // You can add your JavaScript code here
 }); 
